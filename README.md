@@ -4,4 +4,4 @@
 - 📫 always@reborn.com
 - 🖤 [モルグ](https://discord.gg/morgue)
 # 
-![Discord Banner 2](https://discordapp.com/api/guilds/[967302798884622367]/widget.png?style=banner2)
+<img src="https://discordapp.com/api/guilds/[967302798884622367]/widget.png?style=banner2" alt="Discord Banner 2"/>
