@@ -5,4 +5,4 @@
 - 🖤 [モルグ](https://discord.gg/morgue)
 
 ![banner](https://github.com/Iords/Iords/blob/main/soundcloud%20banner%20s.png?raw=true)
-<sup>banner made by me</sup>
+<sup>readme art made by yours truly</sup>
