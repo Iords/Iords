@@ -4,4 +4,4 @@
 - 📫 always@reborn.com
 - 🖤 [モルグ](https://discord.gg/morgue)
 #
-![banner]("https://github.com/Iords/Iords/blob/main/soundcloud banner s.png?raw=true")
+![banner]([http://url/to/img.png](https://github.com/Iords/Iords/blob/main/soundcloud%20banner%20s.png?raw=true))
